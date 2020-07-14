@@ -1,4 +1,4 @@
 
 public interface Func1 {
-	boolean function1(int x);
+	public boolean function1(int x);
 }
